@@ -3,4 +3,4 @@
 I'm a _JavaScript_ Full-Stack Developer (Node.js, Angular).<br/>
 
 
-Computer engineering Student at UFES
+Computer engineering Student - UFES
