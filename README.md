@@ -2,7 +2,7 @@
 
 I'm a _JavaScript_ Full-Stack Developer (Node.js, Angular).
 
-Computer engineering Student - UFES
+Computer Engineering Student - UFES
 
 - I’m currently learning Typescript, Node.js and Angular.
 - See my LinkedIn: [Bernardo Broedel](https://www.linkedin.com/in/bernardo-broedel-139aa11ab/)
