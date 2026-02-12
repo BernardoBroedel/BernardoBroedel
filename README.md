@@ -3,8 +3,6 @@
 Software Engineer focused on JavaScript/TypeScript and the modern web ecosystem.  
 AI-augmented development enthusiast — building smarter with tools like Cursor & Antigravity.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bernardo-broedel)
-
 ---
 
 ### 🚀 Tech Stack
@@ -22,12 +20,3 @@ AI-augmented development enthusiast — building smarter with tools like Cursor 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardobroedel&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobroedel&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-</p>
