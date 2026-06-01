@@ -1,7 +1,5 @@
 # Bernardo Vargens Broedel 🍁 Software Engineer
 
----
-
 ## 💻 Tech Stack
 
 ### 🛠️ Frontend & Mobile
